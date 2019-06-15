@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
-#source:       .
-#data_source:  ./_data
+
+# 目录结构
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+data_source: ./_data
+collections: null
