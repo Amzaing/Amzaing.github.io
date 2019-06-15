@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
-data_source: ./_data
+source:       .
+data_source:  ./_data
