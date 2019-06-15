@@ -1,9 +1,14 @@
-theme: jekyll-theme-minimal
+# Permalinks
+permalink:           pretty
 
-# 目录结构
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
-data_source: ./_data
-collections: null
+# Setup
+title:               Orzapp
+tagline:             Google play
+url:                 http://data.orzapp.com
+paginate:            1
+baseurl:             ""
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
