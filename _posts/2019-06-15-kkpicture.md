@@ -1,0 +1,4 @@
+---
+layout: kkpicture
+title: kkpicture
+---
