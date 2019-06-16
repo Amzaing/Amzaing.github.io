@@ -1,5 +1,5 @@
 ---
-permalink: /apps/kkpicture/app.json
+permalink: /apps/kk.json
 layout: kkpicture
 title: kkpicture
 ---
