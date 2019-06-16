@@ -4,20 +4,33 @@
 {% include head.html %}
 
 <!-- hack iOS CSS :active style -->
+
 <body ontouchstart="">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-33617144-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-    <!-- {% include nav.html %} -->
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-    {{ content }}
+    gtag('config', 'UA-33617144-2');
+  </script>
 
-    <!-- {% include footer.html %} -->
+  <!-- {% include nav.html %} -->
+
+  {{ content }}
+
+  <!-- {% include footer.html %} -->
 
 
-<!-- Image to hack wechat -->
+  <!-- Image to hack wechat -->
 
-<!-- <img src="/img/apple-touch-icon.png" width="0" height="0" /> -->
+  <!-- <img src="/img/apple-touch-icon.png" width="0" height="0" /> -->
 
-<!-- Migrate from head to bottom, no longer block render and still work -->
+  <!-- Migrate from head to bottom, no longer block render and still work -->
 
 </body>
 
