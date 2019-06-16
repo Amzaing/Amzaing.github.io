@@ -1,5 +1,5 @@
 ---
 permalink: /apps/kk.json
-layout: kkpicture
+layout: kk
 title: kkpicture
 ---
