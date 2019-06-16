@@ -2,6 +2,11 @@
  "market": "https://play.google.com/store/apps/details?id=",
  "app": [
   {
+   "country": [""],
+   "pkg": "com.oomglive.nature",
+   "url": "https://lh3.ggpht.com/GDGeovR9-gSPtg1ZW-C0sVWBowEmpHix4o_NNiD-ju9Ey33ofa0gX855anAOlpMeSu9m=s180"
+  },
+  {
    "country": [ "us", "fr", "jp", "br", "ru", "in", "ca", "id", "hk", "es" ],
    "pkg": "com.orzapp.waterfallhd",
    "url": "https://lh3.ggpht.com/FLgRERGdnrlcBB7_iSwmprWkh2LFs4mHXhr97o5Hjk8C86sO_Maxa_b-HreeIPKnDzc=s180"
