@@ -1,3 +1,5 @@
+#General Jekyll Config
+highlighter: rogue
 # Permalinks
 permalink:           pretty
 
