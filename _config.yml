@@ -1,18 +1,23 @@
-#General Jekyll Config
-highlighter: rouge
-
-# Permalinks
-permalink:           pretty
-
-# Setup
+# Site info
 title:               Orzapp
 tagline:             Another website
 url:                 http://data.orzapp.com
-paginate:            1
 baseurl:             ""
 
+
+#Config
+highlighter: rouge
+permalink: pretty
+paginate: 10
+
+
 google_analytics: "UA-33617144-2"
-theme: jekyll-theme-cayman
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
 
 # Gems
 gems:
