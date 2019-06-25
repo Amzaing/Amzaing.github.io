@@ -3,7 +3,11 @@
 
 {% include head.html %}
 
-<header>
+<!-- hack iOS CSS :active style -->
+
+<body ontouchstart="">
+  
+  <header>
   <div>
   <nav role="navigation">
     {% for nav in site.navs %}
@@ -12,9 +16,6 @@
   </nav>
   </div>
 </header>
-<!-- hack iOS CSS :active style -->
-
-<body ontouchstart="">
   <!-- {% include nav.html %} -->
 
   {{ content }}
