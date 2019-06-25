@@ -5,30 +5,22 @@ url:                 http://data.orzapp.com
 baseurl:             /
 
 
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 #Config
-highlighter: rouge
-permalink: pretty
+# highlighter: rouge
+# permalink: pretty
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
 paginate: 4
 
 #Analytics
 analytics_id: UA-33617144-2
-
-# Assets
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-#Navigation
-navs:
-  -
-    href: /
-    label: index
-  -
-    href: /categories/
-    label: category
-
-
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -37,6 +29,6 @@ navs:
 plugins: [jekyll-paginate]
 
 # Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+# gems:
+#   - jekyll-paginate
+#   - jekyll-gist
