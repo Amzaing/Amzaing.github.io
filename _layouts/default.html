@@ -4,11 +4,13 @@
 {% include head.html %}
 
 <header>
+  <div>
   <nav role="navigation">
     {% for nav in site.navs %}
     <a href="{{site.url}}{{nav.href}}">{{nav.lable}}</a>
     {% endfor %}
   </nav>
+  </div>
 </header>
 <!-- hack iOS CSS :active style -->
 
