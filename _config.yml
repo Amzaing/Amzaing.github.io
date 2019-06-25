@@ -2,7 +2,7 @@
 title:               Orzapp
 tagline:             Another website
 url:                 http://data.orzapp.com
-baseurl:             ""
+baseurl:             /
 
 
 #Config
