@@ -1,21 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
 # Site info
 title:               Orzapp
 tagline:             Another website
 url:                 http://data.orzapp.com
 baseurl:             /
 
-
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 #Config
 # highlighter: rouge
 # permalink: pretty
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
 
 paginate: 4
 
