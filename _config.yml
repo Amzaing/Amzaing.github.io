@@ -10,8 +10,19 @@ highlighter: rouge
 permalink: pretty
 paginate: 4
 
+#Analytics
+google_analytics: UA-33617144-2
 
-google_analytics: "UA-33617144-2"
+#Navigation
+navs:
+  -
+    href: /
+    label: index
+  -
+    href: /categories/
+    label: category
+
+
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0

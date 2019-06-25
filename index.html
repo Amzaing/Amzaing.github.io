@@ -23,7 +23,7 @@ public void main(args[]){
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:100 }}
+            {{ post.content | strip_html | truncate:80 }}
         </div>
     </a>
     <p class="post-meta">
