@@ -3,6 +3,12 @@
 
 {% include head.html %}
 
+<header >
+  <nav>
+    {% for nav in site.navs %}
+    <a href="{{site.url}}{{nav.href}}">{{nav.lable}}</a>
+  </nav>
+</header>
 <!-- hack iOS CSS :active style -->
 
 <body ontouchstart="">
