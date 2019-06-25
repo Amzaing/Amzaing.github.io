@@ -5,7 +5,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-      {% if post.title != 'tn' or post.title != "ss" or post.title != "kkpicture" or post.title != "oomglive" or post.title != "orzapp" %}
+      {% if post.title != "tn" or post.title != "ss" or post.title != "kkpicture" or post.title != "oomglive" or post.title != "orzapp" %}
   <article class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
