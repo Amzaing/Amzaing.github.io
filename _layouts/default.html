@@ -7,6 +7,7 @@
   <nav>
     {% for nav in site.navs %}
     <a href="{{site.url}}{{nav.href}}">{{nav.lable}}</a>
+    {% endfor %}
   </nav>
 </header>
 <!-- hack iOS CSS :active style -->
