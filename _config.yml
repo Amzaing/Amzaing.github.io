@@ -11,7 +11,13 @@ permalink: pretty
 paginate: 4
 
 #Analytics
-google_analytics: UA-33617144-2
+analytics_id: UA-33617144-2
+
+# Assets
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 #Navigation
 navs:
