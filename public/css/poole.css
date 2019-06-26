@@ -352,6 +352,14 @@ tbody tr:nth-child(odd) th {
   color: #9a9a9a;
 }
 
+.post-meta {
+  font-family: 'Lora', 'Times New Roman', serif;
+  color: #cccccc;
+  font-size: 16px;
+  font-style: italic;
+  margin-top: 0;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
