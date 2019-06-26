@@ -12,12 +12,12 @@ title: Home
                 {{ post.title }}
               </a>
             </h1>
+           <h5 class="post-date">
+           Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+           </h5>
           <!-- <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time> -->
             {{ post.content | strip_html | truncate:80 }}
            </article>
-           <p class= "post-date"> 
-           Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-           </p>
       {% endif %}
   {% endfor %}
 </div>
