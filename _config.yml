@@ -21,6 +21,7 @@ paginate: 4
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 #Analytics
 analytics_id: UA-33617144-2
