@@ -2,29 +2,9 @@
  "market": "https://play.google.com/store/apps/details?id=",
  "app": [
   {
-   "country": [ "us", "fr", "jp", "br", "ru", "in", "ca", "id", "hk", "es" ],
-   "pkg": "com.orzapp.waterfallhd",
-   "url": "https://lh3.ggpht.com/FLgRERGdnrlcBB7_iSwmprWkh2LFs4mHXhr97o5Hjk8C86sO_Maxa_b-HreeIPKnDzc=s180"
-  },
-  {
-   "country": [ "jp", "us", "fr", "br", "ru", "in", "kr", "es", "gb", "au" ],
-   "pkg": "com.orzapp.beach",
-   "url": "https://lh3.ggpht.com/_aUbp_XIwKdGZ2wtd4mp7Gb0asZcJmklRd1vxEddk0wmWJ-WNgJEL54KGjX5GdM3esE=s180"
-  },
-  {
-   "country": [ "jp", "us", "br", "fi", "ru", "sa", "de", "id", "in", "th" ],
-   "pkg": "com.orzapp.flowers",
-   "url": "https://lh3.ggpht.com/ZbRa711YVXEGX9wiHq4QiJxbMx06Ekx304Z6Ot6pUllQRKtle8Vc4XSnU-oQTqYOqCI=s180"
-  },
-  {
-   "country": [ "in", "us", "ch", "ir", "dk", "bd", "ke", "pk", "it", "mx" ],
-   "pkg": "com.orzapp.g3free",
-   "url": "https://lh3.ggpht.com/uzGd684qpePAmbpWEogGSTbQ8jY55aNk-edJJCLR8CEwxKpw8plqdw30P7XRJWUu6g=s180"
-  },
-  {
-   "country": [ "ch", "ua", "br", "in", "za", "id", "us", "co", "it", "ng" ],
-   "pkg": "com.orzapp.ball",
-   "url": "https://lh3.ggpht.com/sA_j0j1dz6Rw5QccBJMHk7thAOWa4WLCx9Py4o9HUAVwSEcfkyJHib4AIvvIkmxTesw=s180"
+   "country": [],
+   "pkg": "com.orzapp.garden",
+   "url": "https://lh3.ggpht.com/yf7Br6FGH030zcc12IkLH_LsaydusB2kNDEaWX7UU8jHCwEcb4YcKUL12ZQOY-MLxw=s180"
   }
  ]
 }

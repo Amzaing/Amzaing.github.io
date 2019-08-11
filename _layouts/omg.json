@@ -2,14 +2,9 @@
  "market": "https://play.google.com/store/apps/details?id=",
  "app": [
   {
-   "country": [""],
-   "pkg": "com.galaxyparallax.cflowers",
-   "url": "https://lh3.ggpht.com/DNHanvRscETS5uTIOlWg3quoeTBhR3o6fva46kDOR7-6tOx7H8xdmlNh6Lsm0gGDSYY=s180"
-  },
-  {
-   "country": [ "us", "fr", "jp", "br", "ru", "in", "ca", "id", "hk", "es" ],
-   "pkg": "com.orzapp.waterfallhd",
-   "url": "https://lh3.ggpht.com/FLgRERGdnrlcBB7_iSwmprWkh2LFs4mHXhr97o5Hjk8C86sO_Maxa_b-HreeIPKnDzc=s180"
+   "country": [],
+   "pkg": "com.orzapp.garden",
+   "url": "https://lh3.ggpht.com/yf7Br6FGH030zcc12IkLH_LsaydusB2kNDEaWX7UU8jHCwEcb4YcKUL12ZQOY-MLxw=s180"
   }
  ]
 }
