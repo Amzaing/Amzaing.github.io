@@ -11,10 +11,10 @@ author: Guan
 - 圣诞
 
 ### New
-- 2019-08-10 Garden
+- 2019-08-10 ~~Garden~~
 
 ### Update
-- Funny Cat
+- 2019-08-12 ~~Funny Cat~~
 - 2019-08-10 ~~Christmax Cat~~
 - 2019-08-10 ~~Lazy Cat~~
 - ~~Tiger~~
