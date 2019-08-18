@@ -24,3 +24,30 @@ author: Guan
 - ~~Q Cats~~
 - ~~Little Tiger~~
 - ~~Pom Dog~~
+
+### Live Wallpaper
+- Живые обои
+- 动态壁纸
+- 動態桌布
+- Planos de fundo on-line
+- Imagens de fundo ativas
+- живі шпалери
+- Fondos de pantalla animados
+- Fondos animados
+
+
+Support Language:
+Česky, Dank, Nederlands, English, Suomi, Francais, Deutsch, Ελληνικά, हिन्दी, Magyar, Indonesia, 日本語, 한국어, Melayu, Polski, Português, Românesc, Pусский, Español, Svenska, ไทย, Türkiye, Українська, Tiếng việt, 简体中文, 繁體中文.
+
+Setting Options:
+- Scrolling
+- Parallax Effect
+- Water Drop
+- Particle
+- Touch effect
+- Select Background
+- Slideshow
+- Filters
+- Colors changes
+- Foggy Glass
+- Ice Frame 
