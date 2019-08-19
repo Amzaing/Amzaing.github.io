@@ -11,9 +11,11 @@ author: Guan
 - 圣诞
 
 ### New
+- 2019-08-19 ~~Cat~~
 - 2019-08-10 ~~Garden~~
 
 ### Update
+- 2019-08-19 ~~Waterfall 100%~~
 - 2019-08-15 ~~Waterfall 50%~~
 - 2019-08-13 ~~Waterfall 20%~~
 - 2019-08-12 ~~Funny Cat~~
