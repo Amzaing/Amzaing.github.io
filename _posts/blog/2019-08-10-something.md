@@ -11,6 +11,7 @@ author: Guan
 - 圣诞
 
 ### New
+- 2019-08-19 ~~Cat~~
 - 2019-08-10 ~~Garden~~
 
 ### Update
