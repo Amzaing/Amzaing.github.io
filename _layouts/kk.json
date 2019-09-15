@@ -2,14 +2,9 @@
  "market": "https://play.google.com/store/apps/details?id=",
  "app": [
   {
-   "country": ["in"],
-   "pkg": "com.orzapp.garden",
-   "url": "https://lh3.ggpht.com/yf7Br6FGH030zcc12IkLH_LsaydusB2kNDEaWX7UU8jHCwEcb4YcKUL12ZQOY-MLxw=s180"
-  },
-  {
-   "country": ["ru"],
-   "pkg": "com.kklivewallpaper.cat",
-   "url": "https://lh3.ggpht.com/wqIv6a-2C03phz3JbqXqdQzBoeMBbSvYjq6PwtGtjVry8ivLqc3SDdsETLV1fPef638=s180"
+   "country": [""],
+   "pkg": "com.orzapp.waterfallhd",
+   "url": "https://lh3.ggpht.com/FLgRERGdnrlcBB7_iSwmprWkh2LFs4mHXhr97o5Hjk8C86sO_Maxa_b-HreeIPKnDzc=s180"
   }
  ]
 }
